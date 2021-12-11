@@ -3,6 +3,7 @@ def my_function():
 
 def main():
     print('My first git program')
+    print("hey hop lala")
 
 
 
